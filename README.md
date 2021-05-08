@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my hub 😀
 
-<!--
-**susovanD/susovanD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Machine Learning Engineer a python web developer/scraper. 
 
-Here are some ideas to get you started:
+I have developed Chromo, a chatbot 🤖 that helps users to order food online.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love automating things and have made multiple utilities/scripts that will save us from doing the boring jobs. I have helped others also to automate their day to day boring tasks.
+
+I have developed a text clustering tool that would differentiate organizational data (mainly Application Maintenance data). This in term helped the organization take proper measure after identiying the pain points post analysing the data.
+
+Apart from coding, I love travelling, reading about Indian mythology. I love aquascaping too. 🐠☘️
+
+Wanna know more about me? Stay tuned. 😀😀
