@@ -30,4 +30,4 @@ I love travelling ✈️, reading about Indian mythology. I love aquascaping too
 ## ☕ Buy me a Coffee
 I hope you enjoyed reading this article and found the content helpful. You can support me by clicking the button below to buy me a cup of coffee. Your generosity will encourage me to write articles more frequently.
 
-<img src="https://user-images.githubusercontent.com/32951163/117539408-215f3480-b028-11eb-8c21-f634430941a5.png" href="https://www.buymeacoffee.com/susovanD" width="150" height="40" style="vertical-align:top; margin:4px">
+<a href="https://www.buymeacoffee.com/susovanD"><img src="https://user-images.githubusercontent.com/32951163/117539408-215f3480-b028-11eb-8c21-f634430941a5.png" width="150" height="40" style="vertical-align:top; margin:4px"></a>  
