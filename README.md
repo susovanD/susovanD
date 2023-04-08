@@ -8,7 +8,7 @@ I love travelling ✈️, reading about Indian mythology. I love aquascaping too
 
 ## 📬 Find me on
 
-- [LinkedIn](www.linkedin.com/in/susovan-dey)
+- [LinkedIn](https://www.linkedin.com/in/susovan-dey)
 - [gmail](deysusovan93@gmail.com)
 - [Facebook](https://www.facebook.com/susovan.dey.31)
 
